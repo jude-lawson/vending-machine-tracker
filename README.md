@@ -1,4 +1,4 @@
-# Vend
+# Vending Machine Tracker
 
 We’re developing an application to track vending machines across the city.
 
